@@ -48,5 +48,5 @@ config.vm.define "pxeserver" do |server|
     # ENABLE to fix memory issues
     # end
     end
-    
+end
 end
